@@ -1,0 +1,85 @@
+h1 {
+	text-align: center;
+	font-family: 'Homemade Apple', cursive;
+	font-style: oblique;
+	color: darkcyan;
+	font-family: 'Calligraffitti', cursive;
+
+}
+
+.jumbotron {
+	background-color: rgba(102,204,204,0.5);
+	font-family: 'Homemade Apple', cursive;
+	color: pink;
+}
+
+nav {
+	background-color: darkcyan;
+	text-align: center;
+	color: hotpink;
+}
+
+nav a:hover {
+	color: pink;
+}
+
+
+ul {
+	color: magenta;
+
+}
+#myCarousel {
+	max-height: 50px;
+}
+
+body {
+background-image: url(http://img02.deviantart.net/2df3/i/2010/290/1/4/stylist_runway_by_tinatanguyen-d30xawl.jpg);
+background-size: auto;}
+
+
+h2 {
+	background: rgba(252,176,179,0.5);
+	margin-top: 50px;
+	text-align: center;
+}
+
+table{
+  border-style: solid;
+  border-width: medium;
+  border-color: whitesmoke;
+
+}
+td{
+  font-size: 20px;
+  color: violet;
+  text-align: center;
+  border-style: groove;
+  min-height: 100px;
+  max-height: 100px;
+  min-width: 100px;
+  max-width: 100px;
+  border-width: 5px;
+  border-color: purple;
+  background-color: rgba(154,118,75, 0.25)
+}
+
+
+h2 {
+color: blue;
+font-size: 14pt;
+font-family: serif;
+background: rgba(252,176,179,0.5);
+}
+
+img {
+margin-left: 80%;
+
+}
+
+#fashion {
+	background-color: orange;
+}
+
+#jess {
+	color: blue;
+}
